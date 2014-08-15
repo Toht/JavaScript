@@ -1,0 +1,1 @@
+alert("Desde otro archivo");
